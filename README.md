@@ -1,0 +1,1 @@
+# Push test on Git, Cypress sutdy case 
